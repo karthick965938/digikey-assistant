@@ -1,0 +1,8 @@
+How do I build a BOM with myLists?
+Registered users are able to access all the features of myLists, including BOM building and maintenance:
+
+Maintain and revise lists over time
+Toggle on or off planned overages using the attrition field
+Assembly feature to multiply list quantities from a single build to full assembly
+Lock in pricing for 30 days by instantly generating a quote
+Tour all the exciting features with this Example List

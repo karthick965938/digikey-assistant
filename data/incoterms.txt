@@ -1,0 +1,10 @@
+What are the Incoterms for my shipment?
+INR Currency
+
+When placing an order in INR Currency Incoterms are CPT (Duty, customs, and taxes due at time of delivery).
+
+USD Currency
+
+Incoterms for UPS, FedEx or DHL freight pre-paid shipments are CPT (Duty, customs, and VAT due at time of delivery).
+
+Note: Incoterms will be shown on the Preview-page of your online order and will vary depending on your shipping location, VAT validity and company/personal status.

@@ -1,0 +1,2 @@
+Where can I find my invoice in myDIGIKEY?
+You can find your invoice in your myDIGIKEY profile under Order Status and History. Click on the sales order number to be directed to Order Details. A PDF of the invoice is listed under Invoice and Shipping Information once the sales order has invoiced.

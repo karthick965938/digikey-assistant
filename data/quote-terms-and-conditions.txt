@@ -1,0 +1,25 @@
+Quote Terms and Conditions
+Conditions of Quote
+All delivery dates quoted are estimated. Confirmed delivery dates may be obtained after receipt of order.
+
+Alternate part numbers are suggested based on technical information available to DigiKey. DigiKey does not guarantee that suggested alternatives are based solely on the most recent data or that our interpretation and accuracy of the data is correct. Customer is solely responsible for confirming the specifications as well as determining the appropriateness and compatibility in selecting the given part for their application.
+
+Due to quantities, usage, and contracts with our manufacturers some part numbers may be subject to special terms.
+
+Date/Lot code information available at time of order.
+
+Products sold by DigiKey are manufactured by multiple suppliers at multiple locations. Due to dynamic inventory processes in place at DigiKey, the Country of Origin for a product cannot be confirmed at the time of quote but can be confirmed at time of order. Country of Origin is based on last received.
+
+Standard packaging is the minimum package size DigiKey receives from the manufacturer. Minimum order quantity may be a smaller quantity than manufacturer standard packaging, due to DigiKey’s value add services. The package type (i.e. reel, tube, tray) may change when product is broken down into smaller quantities.
+
+Pricing does not include freight. Exact shipping and insurance charges can be obtained after ordering.
+
+Become a DigiKey registered user to upload your entire bill of materials for an immediate quote under the ‘My DigiKey’ login.
+
+Errors and Omissions: Prospective suppliers/buyers shall take no advantage of any apparent errors or omissions in the RFP documents. In the event any errors or omissions are discovered, the supplier/buyer shall notify the other party immediately.
+
+FOB: Origin, Thief River Falls, MN
+
+Cage Code: 2S894
+
+Federal ID: 41-1234968

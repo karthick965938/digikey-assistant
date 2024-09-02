@@ -1,0 +1,11 @@
+How do I cancel an order or a backorder?
+Orders that are in-stock
+
+At DigiKey, we pride ourselves on the ability to get orders out the door quickly. This means orders can be processed and shipped in as little as 20 minutes. In most instances, we are unable to cancel your order once it has been submitted.
+If this happens to be the case, you can return your order to us when it arrives and then be refunded once the parts have been received.
+
+Please contact your local support center to review cancellation options (india.support@digikey.com, 000-800-040-4249, or 001-218-681-7979).
+
+Orders of backordered or out of stock products
+
+If the status of your backorder is no longer acceptable, you may cancel your backordered product by contacting us. Please have your Salesorder ID and the backordered Part Number ready. Note that some products are Non-Cancelable/Non-Returnable (NCNR).

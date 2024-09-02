@@ -1,0 +1,25 @@
+# .env
+.env
+
+# __pycache__
+__pycache__
+.pytest_cache
+
+# ruff cache
+.ruff_cache
+
+# macOS
+.DS_Store
+
+# build
+build
+dist
+pandasai.egg-info
+
+# cache
+cache/
+
+flagged/
+
+# logs
+*.log

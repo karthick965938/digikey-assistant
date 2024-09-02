@@ -1,0 +1,41 @@
+
+
+DigiKey Voice Bot - Interactive Office Assistant using Generative AI(Open AI)
+
+Project Idea: DigiKey Voice-Activated Office Assistant
+I am going to develop a voice-activated assistant for the DigiKey website( https://www.digikey.in ) using the Maixduino Kit and Generative AI technologies. This assistant will help users interact with DigiKey’s site more efficiently by answering their questions and providing useful information.
+
+What is the DigiKey Office Assistant?
+The DigiKey Office Assistant is a voice-based chatbot designed to:
+
+1) Answer questions about basic info and services on DigiKey’s( https://www.digikey.in ) website.
+2) Act like a virtual receptionist to assist users.
+
+You can listen to a sample conversation with the assistant here → https://drive.google.com/file/d/1jQ5SCLSKgzAC2kIog-dP9q7zvZhEPmPL/view?usp=sharing
+
+How Does the DigiKey Office Assistant Work?
+The assistant has two main components:
+
+Generative AI:
+
+1) Collects information from DigiKey’s website( https://www.digikey.in ).
+2) Converts this data into a format that can be used to answer user questions (known as vectordb).
+
+IoT (Internet of Things):
+
+1) The Maixduino Kit captures the user’s voice through a microphone, converts it to text, and sends it to vectordb.
+2) Vectordb provides suggestions based on the data and sends them to the OpenAI API.
+3) The OpenAI API generates a response, which is then converted from text to speech.
+4) The Maixduino Kit outputs the response through a speaker and displays it on a screen.
+
+For a visual explanation of how it works, check out the flow diagram → https://drive.google.com/file/d/16cO_el9U3N9vqaTxAAaJvNc523dqt8Fu/view?usp=sharing
+
+Why Use the Maixduino Kit?
+The Maixduino Kit is a great choice because it offers:
+
+1) Wi-Fi Connectivity: Allows communication between the user and the OpenAI API.
+2) Display Module: Provides a user-friendly interface to show information and responses.
+
+By using these features, the DigiKey Office Assistant will provide a smooth and interactive experience for users.
+
+LinkedIn

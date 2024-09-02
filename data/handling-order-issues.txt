@@ -1,0 +1,12 @@
+What should I do if my order has an issue?
+Registered user
+
+To request a return or fix an issue, such as report and resolve a shortage or damaged product, visit your Order History and select the invoice, then select Return or Fix Issue and complete the online process.
+Guest user
+
+To request a return or fix an issue, such as report and resolve a shortage or damaged product, visit our Returns and Order Issues portal.
+Return authorization and shipping label
+
+DigiKey will not process returns that have not been issued an RMA (Return Merchandise Authorization). Your return request must be approved prior to shipping DigiKey the product(s).
+For returns in the United States, a return label will be provided for a charge of $7.50 or you can return the package at your own expense.
+For returns shipping to DigiKey from outside of the United States, a return label will be provided for a fee. The label fee will depend on the country you are shipping from and will be displayed before you confirm your return request.

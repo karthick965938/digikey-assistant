@@ -1,0 +1,6 @@
+How do I pay by prepaid wire transfer?
+In the checkout, click “Payment in Advance by Wire Transfer.” When you submit your online order, an email will be sent to the address we have on file with a proforma invoice and information to complete the purchase process. DigiKey does not charge a processing fee for prepaid wire transfers, but your bank or an intermediary bank may have a fee.
+
+DigiKey will never contact you to collect personal information like passwords and social security numbers. We will only provide proforma payment information if you contact us and initiate a purchase. If you suspect fraud, please contact our customer support team at india.support@digikey.com.
+
+Click https://www.digikey.in/forms/en/AR/WireTransferInfo to access country-specific banking information.

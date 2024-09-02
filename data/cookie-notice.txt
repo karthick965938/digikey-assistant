@@ -1,0 +1,121 @@
+Cookie Notice
+DATE OF LAST MODIFICATION
+May 20, 2022
+This Cookie Notice explains how DigiKey (doing business as DigiKey) and its group companies, including DigiKey Services, Inc. and DigiKey Germany GmbH (collectively "DigiKey", "we", "us", and "ours") use cookies and similar technologies to recognize you when you visit our websites. It explains what these technologies are and why we use them, as well as your rights to control our use of them.
+
+What are cookies?
+Cookies are small data files that are placed on your computer or mobile device when you visit a website. Cookies are widely used by website owners to make their websites work, or to work more efficiently, as well as to provide reporting information.
+
+Cookies set by the website owner (in this case, DigiKey) are called "first party cookies." Cookies set by parties other than the website owner are called "third party cookies." Third party cookies enable third party features or functionality to be provided on or through the website (e.g. like advertising, interactive content and analytics). The parties that set these third party cookies can recognize your computer both when it visits the website in question and also when it visits certain other websites.
+
+Why do we use cookies?
+We use first party and third party cookies for several reasons. Some cookies are required for technical reasons for our websites to operate, and we refer to these as "essential" or "strictly necessary" cookies. These cookies are "session cookies," which are erased when the user closes the Web browser. Other "persistent cookies" are stored for future visits, which enable us to track and target the interests of our users to enhance the experience on our websites. Third parties serve cookies through our websites for advertising, analytics, and other purposes. This is described in more detail below.
+
+The specific types of first and third party cookies served through our websites and the purposes they perform are described in the table below (please note that the specific cookies served may vary depending on the specific website you visit). By modifying your browser preferences, you may have the choice to accept cookies, to be notified when a cookie is sent, or to reject cookies. This is also detailed in the table below. The rejection or limitation of cookies may limit your ability to use our websites.
+
+Type of Cookie	Who serves these cookies	How to refuse
+Essential website cookies: These cookies are strictly necessary to provide you with services available through our websites and to use some of its features, such as access to secure areas. They are also used to maintain an anonymous user session by the server.
+
+DigiKey
+
+Because these cookies are strictly necessary to deliver the websites to you, you cannot refuse them.
+You can block or delete them by changing your browser settings however, as described below under the heading "How can I control cookies?"
+
+Performance and functionality cookies: Performance cookies are used for web analytics to identify repeat visits and to enhance the performance and functionality of our websites. These cookies are non-essential to their use. However, without these cookies, certain functionality may become unavailable.
+By default, these cookies are set to expire after 2 years, although this is customizable by website owners. The Sitecore cookie is set to expire after 10 years.
+
+Functionality cookies are used to store the visitor's geolocation. This is to record location and update a page share count, as well as to track how often a user interacts with a web widget. These cookies also test whether a browser is set to accept first party cookies.
+
+AddThis
+Dynatrace
+
+Google Universal Analytics
+
+www.google.com/policies/privacy/partners
+
+Optimizely
+
+Piwik
+
+Sitecore
+
+Tealium
+
+Sift
+
+To refuse these cookies, please follow the instructions below under the heading "How can I control cookies?"
+Alternatively, you may click on the relevant opt-out link below:
+
+AddThis
+
+Dynatrace
+
+Google Universal Analytics
+
+Optimizely
+
+Piwik
+
+Sitecore
+
+Tealium
+
+Sift
+
+Targeting cookies: These cookies collect information that is used either in aggregate form to help us understand how our websites are being used or how effective our marketing campaigns are, or to help us customize our websites for you (for example, as explained under "What about other tracking technologies, like web beacons and pixel tags?").
+These cookies may also be used to make advertising messages more relevant to you. They perform functions like preventing the same ad from continuously reappearing, ensuring that ads are properly displayed for advertisers, and in some cases selecting advertisements that are based on your interests.
+
+AddThis
+Google
+
+YouTube – Google
+
+Sift
+
+DigiKey
+
+To refuse these cookies, please follow the instructions below under the heading "How can I control cookies?"
+Alternatively, you may click on the relevant opt-out links below:
+
+AddThis
+
+Google
+
+YouTube – Google
+
+Sift
+
+Social networking cookies: These cookies are used to enable you to share pages and content that you find interesting on our websites through third party social networking and other websites. These cookies may also be used for advertising purposes too.	AddThis
+YouTube – Google
+
+To refuse these cookies, please follow the instructions below under the heading "How can I control cookies?"
+Alternatively, please click on the relevant opt-out link below:
+
+AddThis
+
+YouTube – Google
+
+What about other tracking technologies, like web beacons and pixel tags?
+Cookies are not the only way to recognize or track visitors to a website. We may use other, similar technologies from time to time, like web beacons and pixel tags (sometimes called "tracking pixels" or "clear gifs"). These are tiny graphics files that contain a unique identifier that enable us to recognize when someone has visited our websites or opened an e-mail that we have sent them. This allows us, for example, to monitor the traffic patterns of users from one page within our websites to another, to deliver or communicate with cookies, to understand whether you have come to our websites from an online advertisement displayed on a third-party website, to improve site performance, and to measure the success of e-mail marketing campaigns. In many instances, these technologies are reliant on cookies to function properly, and so declining cookies will impair their functioning. We also use technologies such as JavaScript and SDKs to collect certain information to help detect and prevent fraudulent activity or malicious behaviours on our website.
+
+DigiKey may provide its product suppliers with a pixel tag to include on the supplier's website. The pixel tag is virtually invisible, but it will be, if included on supplier's website, served to your browser from www.digikey.com. By sending the pixel tag to your browser, DigiKey has the opportunity to serve a cookie to you. This cookie contains a unique ID that allows DigiKey to present a user, when the user interacts with DigiKey, personalized content. The use of the pixel tag and resulting cooking only allows DigiKey to learn that the user visited the supplier's website and then visited DigiKey's website. The cookie does not allow DigiKey to learn other sites a user may visit. The information collected through this process may be used in activity reports and shared with our suppliers, but we do not use this information to identify or disclose your name or contact details.
+
+DigiKey may include pixel tags of certain suppliers on various pages of DigiKey's website related to the supplier's products. If DigiKey includes this type of pixel tag on its website, the supplier has the opportunity to serve a cookie to you, which will contain a unique ID that would allow the supplier to present personalized content to you when you visit the supplier's website. The use of a pixel tag and resulting cookie in this manner only allows the supplier to learn that a user visited portions of DigiKey's website and does not allow the supplier to learn other sites the user may have visited.
+
+How can I control cookies?
+You have the right to decide whether to accept or reject cookies. You can exercise your cookie preferences by clicking on the appropriate opt-out links provided in the cookie table above.
+
+You can set or amend your web browser controls to accept or refuse cookies. If you choose to reject cookies, you may still use our website though your access to some functionality and areas of our website may be restricted. As the means by which you can refuse cookies through your web browser controls vary from browser-to-browser, you should visit your browser's help menu for more information.
+
+In addition, most advertising networks offer you a way to opt out of targeted advertising. If you would like to find out more information, please visit http://www.aboutads.info/choices/ or http://www.youronlinechoices.com.
+
+How often will you update this Cookie Notice?
+We may update this Cookie Notice from time to time in order to reflect, for example, changes to the cookies we use or for other operational, legal or regulatory reasons. Please therefore re-visit this Cookie Notice regularly to stay informed about our use of cookies and related technologies.
+
+The date at the top of this Cookie Notice indicates when it was last updated.
+
+Where can I get further information?
+If you have any questions about our use of cookies or other technologies please email us at privacy@digikey.com.
+
+DATE OF LAST MODIFICATION
+May 20, 2022

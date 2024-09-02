@@ -1,0 +1,2 @@
+How is VAT calculated?
+When placing an order VAT will be charged on the total. The VAT fee is not incorporated into the price of the parts.

@@ -1,0 +1,6 @@
+How do I find price and availability with myLists?
+DigiKey's myLists tool provides price and availability with many additional functions including:
+
+Access live pricing and availability
+Provides access to substitute products
+Allows you to set approved substitutes for each line item

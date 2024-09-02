@@ -1,0 +1,8 @@
+How do I request a quote online?
+DigiKey’s myLists tool provides easy access to myDIGIKEY users to immediately generate quotes and lock in price for 30 days. Once the quote is created, it can be emailed as a PDF or downloaded as a .xlsx or .csv. Simply reference the quote number during purchase to honor the quote price.
+
+Additional functions include:
+
+View substitutes, lead times and availability
+Use attrition calculations to plan for lost or damaged components during manufacturing
+Assembly controls that multiply list quantities by any value without altering ordering quantities

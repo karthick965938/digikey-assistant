@@ -1,0 +1,6 @@
+Why has my order been delayed?
+There are several possible reasons for a shipping delay, including:
+
+The order is being held for further review for export compliance
+The order contains value-added items or other customer requirements (such as date code, continuous strip, quality clauses, etc.) that require additional processing time
+Our couriers are experiencing inclement weather delays. If we have delays in shipping your package due to weather, a notice will be posted on the DigiKey website at time of order and you will receive an email that your shipment was delayed.

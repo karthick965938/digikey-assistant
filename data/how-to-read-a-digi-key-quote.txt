@@ -1,0 +1,36 @@
+How to read a DigiKey quote
+Here is our quick guide to terminology and abbreviations that are used on DigiKey's quotes.
+
+Image of Quote 
+Terminology and Abbreviation Guide:
+
+Part: This field will display the requested part number.
+CUST: Customer Reference DigiKey can store your unique reference IDs, like the internal part numbering used at your company.
+MFG: An abbreviation of Manufacturer. This field will display the Manufacturer Name and Manufacturer Part Number if available.
+COO: Country of Origin
+ECCN: Export Control Classification Number
+HTS: Harmonized Tariff Schedule
+Pricing Valid Through: The pricing on the quote expires on this date, which is typically 30 days after the quote was created.
+Pack Type: The type of packaging for the product. Common packaging includes:
+TR = Tape & Reel
+CT = Cut Tape
+DKR = Digi-Reel, our custom reeling of quantities less than a Manufacturer's reel size
+Bulk
+Tube
+Tray
+Current Stock Status:
+IN STOCK: means DigiKey has enough stock to cover the requested quantity/quantities.
+AVAIL: (abbreviation of Available) means the quantity that is in-stock at DigiKey at the time of quote creation.
+BAL: (abbreviation of Balance) means the estimated length of time before DigiKey receives the balance of the quantity you requested for the product.
+ARO: (abbreviation of 'After Receipt of Order') means that DigiKey needs to receive the stock into our inventory. This length of time shown is DigiKey's estimated dock-date.
+Standard MFG Lead Time: For products or quantities that DigiKey does not have on-order with the Manufacturer already, this would reflect the length of time the Manufacturer estimates it would take for DigiKey to receive stock.
+Note: Pertinent information related to the part.
+Minimum Release: The minimum purchase required to receive the quoted price.
+Package Quantity: The Manufacturer standard package quantity.
+A quote is the availability and pricing at a moment in time and locks in pricing for 30 days. If you are looking for real-time price and availability, it is recommended to use myLists or visit a product page.
+
+DigiKey provides quotes in a variety of ways:
+
+Converting a list to a quote in myLists
+Emailing quotes@digikey.com
+Integrating with our quote API

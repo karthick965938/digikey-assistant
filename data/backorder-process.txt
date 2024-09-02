@@ -1,0 +1,14 @@
+What happens when I place a backorder?
+If DigiKey normally stocks a product and we do not have any stock, or we do not have enough stock to fill the quantity you need, then your order will be backordered. This means it will be fulfilled when we receive incoming stock from the supplier.
+
+Backorder eligibility
+
+Due to extremely high demand and low supply, we do not accept backorders on certain products. We also do not accept backorders on out-of-stock Marketplace products.
+
+Status visibility
+
+If you are a registered user of our website, you can see your backorder status and estimated in-stock date in your myDIGIKEY by clicking into the Order History of the order.
+
+Date changes
+
+If DigiKey receives new estimated delivery dates from the supplier, the date in your myDIGIKEY will update and we will notify you by email.

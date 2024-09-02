@@ -1,0 +1,13 @@
+How do I track delivery status and shipping notification?
+Once the order has been processed and shipped successfully, you will receive a shipping notification email with tracking information.
+
+Registered myDIGIKEY users
+
+Once your order ships you will receive a shipping notification email with tracking information.
+Log in to your myDIGIKEY account
+Select Status and History (your most recent orders will be listed at the top of the page)
+Select the appropriate invoice to view the shipping information
+Guest users
+
+Once your order ships you will receive a shipping notification email with tracking information.
+Go to the Order Status page to track your order and review shipments.

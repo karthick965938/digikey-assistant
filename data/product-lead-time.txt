@@ -1,0 +1,19 @@
+How do I know the lead-time of a product prior to purchasing?
+DigiKey's stock quantity displayed
+
+We display our stock throughout our website: on product pages, in the shopping cart after you have added product to your cart, in myLists and on quotes.
+
+Checking DigiKey's incoming stock
+
+If a product is out of stock, or we do not have enough stock to fulfill the quantity you need, you can:
+
+Use the "Check Lead Time" feature on product pages, which will allow you to see estimated in-stock dates for stock coming into DigiKey's distribution center.
+Use the "Check Lead Time" feature in the shopping cart.
+Use the "View Lead Time" feature in myLists.
+See "Current Stock Status" on quotes, where any unavailable stock being requested will have an estimated balance date, abbreviated as "BAL" and shown in weeks. Click here for our guide on reading quotes.
+Some products may have inbound dates that are not available due to data volatility.
+
+Incoming stock versus Manufacturer Standard Lead Time
+
+If a product is stocked by DigiKey, and we are out of stock or have low stock, we likely have the product on-order with the manufacturer.
+In the chance that we do not have the product on-order, or the product is not normally stocked by DigiKey, then the Manufacturer Standard Lead Time can be used to estimate how long it will take the manufacturer to get the product to DigiKey.

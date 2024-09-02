@@ -1,0 +1,7 @@
+gTTS
+numpy
+gradio
+transformers
+langchain
+chromadb
+langchain_openai

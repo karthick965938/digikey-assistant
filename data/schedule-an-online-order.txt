@@ -1,0 +1,7 @@
+How do I schedule an order online?
+For Registered Users, orders can be scheduled on-line by selecting "Schedule Shipments" from your shopping cart. Enter the quantity and in house date for each shipment.
+
+A few scheduling rules to keep in mind before ordering:
+
+Pricing is based on the volume of the entire purchase
+Releases cannot be scheduled more than 12 months into the future.
