@@ -33,7 +33,7 @@ def process_inputs(audio):
     user_query = response
     final_answer = ask(response)
     print(final_answer)
-    processed_audio_path = text_to_speech(final_answer, "Temp3.mp3")
+    processed_audio_path = text_to_speech(final_answer, "output.mp3")
 
     return user_query, final_answer, processed_audio_path
 
@@ -47,7 +47,7 @@ demo = gr.Interface(
     outputs=[
         gr.Textbox(label="User Question"),
         gr.Textbox(label="Assistant Answer"),
-        gr.Audio("Temp3.mp3")
+        gr.Audio("output.mp3")
     ],
     title="DigiKey Voice-Activated Office Assistant",
     description="This assistant will help users interact with DigiKey’s site more efficiently by answering their questions and providing useful information"

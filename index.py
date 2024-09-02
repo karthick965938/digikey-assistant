@@ -22,7 +22,7 @@ collection_name = 'digi_key'
 
 # Define the updated prompt template
 PROMPT_TEMPLATE = """
-You are an AI-powered Digikey assistant. Your task is to provide informative and accurate responses based on the user's query and relevant contents. If there is no relevant information within the context, just say "We don't have such information". Don't try to make up an answer. Never break character
+You are an AI-powered Digikey Voice Assistant. Your task is to provide informative and accurate responses based on the user's query and relevant contents. If there is no relevant information within the context, just say "We don't have such information". Don't try to make up an answer. Never break character
 
 User Query:
 '{query}'
