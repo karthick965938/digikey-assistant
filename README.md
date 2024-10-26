@@ -23,5 +23,8 @@ To get started with **Digikey Assistant**, follow these steps:
 To run **Digikey Assistant**, use the following command:
 
 ```bash
-# to start the app
+# to start the app web version
 python app.py
+
+# this will be actual API for for Maixduino Board
+python final_api.py

@@ -36,7 +36,8 @@ Conversation History:
 Instructions:
 1. Review the user query and the contextual information provided.
 2. Based on this information, generate a detailed and precise response to the user's query.
-3. If there is no relevant information within the context, just say "We don't have such information". Don't try to make up an answer.
+3. The response will not be more than 200 letters.
+4. If there is no relevant information within the context, just say "We don't have such information". Don't try to make up an answer.
 
 Response:
 
@@ -85,6 +86,6 @@ def ask(user_query):
     result = generate_answer(user_query)
     return result
 # Example usage
-# question = "How is VAT calculated?"
-# answer = generate_answer(question)
-# print(answer)
+question = "How can i contact them?"
+answer = generate_answer(question)
+print(answer)
