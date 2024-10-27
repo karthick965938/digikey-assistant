@@ -1,4 +1,4 @@
-# Legal Research
+# DigiKey Voice-Activated Office Assistant
 
 ## Overview
 
