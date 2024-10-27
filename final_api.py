@@ -23,12 +23,10 @@ class DataReport(Resource):
     
     print({'user_query': user_query})
     response = ask(user_query)
-    print('response', response)
-    
-    return {
-      "success": 200,
-      "results": response
-    }
+
+    full_response = f"ANS: {response}"
+    print('response', full_response)
+    return full_response
 
 if __name__ == '__main__':
   app.run(host="0.0.0.0", port=6000, debug=True)

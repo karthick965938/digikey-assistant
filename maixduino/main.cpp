@@ -1,7 +1,7 @@
 #include "WiFiEsp.h"
 #include <Arduino.h>
 #include "Maix_Speech_Recognition.h"
-#include "voice.h"
+#include "test.h"
 #include <Sipeed_ST7789.h>
 
 #ifndef HAVE_HWSERIAL1
@@ -9,8 +9,8 @@
 SoftwareSerial Serial1(6, 7); // RX, TX
 #endif
 
-char ssid[] = "SSID";
-char pwd[] = "PASS";
+char ssid[] = "FTTH-DB78";
+char pwd[] = "karthick123";
 const char* server = "http://154.53.50.40:3001";
 
 // Initialize the Wifi client library
@@ -24,11 +24,24 @@ SPIClass spi_(SPI0);
 Sipeed_ST7789 lcd(320, 240, spi_, SIPEED_ST7789_DCX_PIN, SIPEED_ST7789_RST_PIN, DMAC_CHANNEL2);
 
 #define LABEL_TEXT_SIZE 2
-#define BG_COLOR COLOR_RED
+#define BG_COLOR COLOR_MAGENTA
 
 void printCenterOnLCD(Sipeed_ST7789 &lcd_, const char *msg, uint8_t textSize = LABEL_TEXT_SIZE) {
     lcd_.setCursor((lcd_.width() - (6 * textSize * strlen(msg))) / 2, (lcd_.height() - (8 * textSize)) / 2);
     lcd_.print(msg);
+}
+
+void answerScreen(String ans) {
+    lcd.fillScreen(COLOR_MAGENTA);
+    lcd.setTextSize(2);
+    lcd.setTextColor(COLOR_WHITE);
+
+    lcd.setCursor(5, 5);
+    lcd.println("Your Response:");
+
+    lcd.setCursor(20, 30);
+    lcd.setTextSize(2);
+    lcd.println(ans);
 }
 
 void setup() {
@@ -70,24 +83,27 @@ void setup() {
     rec.addVoiceModel(2, 2, what_are_you_selling_2, fram_num_what_are_you_selling_2); 
     rec.addVoiceModel(2, 3, what_are_you_selling_3, fram_num_what_are_you_selling_3); 
     rec.addVoiceModel(2, 4, what_are_you_selling_4, fram_num_what_are_you_selling_4); 
-    rec.addVoiceModel(3, 0, how_can_i_make_the_order_0, fram_num_how_can_i_make_the_order_0); 
-    rec.addVoiceModel(3, 1, how_can_i_make_the_order_1, fram_num_how_can_i_make_the_order_1); 
-    rec.addVoiceModel(3, 2, how_can_i_make_the_order_2, fram_num_how_can_i_make_the_order_2); 
-    rec.addVoiceModel(3, 3, how_can_i_make_the_order_3, fram_num_how_can_i_make_the_order_3); 
-    rec.addVoiceModel(3, 4, how_can_i_make_the_order_4, fram_num_how_can_i_make_the_order_4); 
-    rec.addVoiceModel(4, 0, how_can_i_cancel_the_order_0, fram_num_how_can_i_cancel_the_order_0); 
-    rec.addVoiceModel(4, 1, how_can_i_cancel_the_order_1, fram_num_how_can_i_cancel_the_order_1); 
-    rec.addVoiceModel(4, 2, how_can_i_cancel_the_order_2, fram_num_how_can_i_cancel_the_order_2); 
-    rec.addVoiceModel(4, 3, how_can_i_cancel_the_order_3, fram_num_how_can_i_cancel_the_order_3); 
+    rec.addVoiceModel(3, 0, how_can_i_make_the_order_0, fram_num_how_can_i_make_the_order_0);
+    rec.addVoiceModel(3, 1, how_can_i_make_the_order_1, fram_num_how_can_i_make_the_order_1);
+    rec.addVoiceModel(3, 2, how_can_i_make_the_order_2, fram_num_how_can_i_make_the_order_2);
+    rec.addVoiceModel(3, 3, how_can_i_make_the_order_3, fram_num_how_can_i_make_the_order_3);
+    rec.addVoiceModel(3, 4, how_can_i_make_the_order_4, fram_num_how_can_i_make_the_order_4);
+    rec.addVoiceModel(4, 0, how_can_i_cancel_the_order_0, fram_num_how_can_i_cancel_the_order_0);
+    rec.addVoiceModel(4, 1, how_can_i_cancel_the_order_1, fram_num_how_can_i_cancel_the_order_1);
+    rec.addVoiceModel(4, 2, how_can_i_cancel_the_order_2, fram_num_how_can_i_cancel_the_order_2);
+    rec.addVoiceModel(4, 3, how_can_i_cancel_the_order_3, fram_num_how_can_i_cancel_the_order_3);
     rec.addVoiceModel(4, 4, how_can_i_cancel_the_order_4, fram_num_how_can_i_cancel_the_order_4);
-    rec.addVoiceModel(5, 0, who_are_you_new_0, fram_num_who_are_you_new_0); 
-    rec.addVoiceModel(5, 1, who_are_you_new_1, fram_num_who_are_you_new_1); 
-    rec.addVoiceModel(5, 2, who_are_you_new_2, fram_num_who_are_you_new_2); 
+    rec.addVoiceModel(5, 0, hey_who_are_you_new_0, fram_num_hey_who_are_you_new_0);
+    rec.addVoiceModel(5, 1, hey_who_are_you_new_1, fram_num_hey_who_are_you_new_1);
+    rec.addVoiceModel(5, 2, hey_who_are_you_new_2, fram_num_hey_who_are_you_new_2);
+    rec.addVoiceModel(6, 0, how_can_i_contact_digikey_0, fram_num_how_can_i_contact_digikey_0);
+    rec.addVoiceModel(6, 1, how_can_i_contact_digikey_1, fram_num_how_can_i_contact_digikey_1);
+    rec.addVoiceModel(6, 2, how_can_i_contact_digikey_2, fram_num_how_can_i_contact_digikey_2);
 
     Serial.println("Model init OK!");
     lcd.fillScreen(BG_COLOR);
     printCenterOnLCD(lcd, "Voice Bot is ready!");
-    delay(1000);
+    delay(3000);
 }
 
 void loop() {
@@ -105,7 +121,7 @@ void loop() {
             userQuery = "Who are you?";
             break;
         case 2:
-            userQuery = "What is digikey?";
+            userQuery = "What is DigiKey?";
             break;
         case 3:
             userQuery = "What are you selling?";
@@ -117,15 +133,22 @@ void loop() {
             userQuery = "How can I cancel the order?";
             break;
         case 6:
-            userQuery = "Who are you?";
+            userQuery = "Hey Who are you?";
+            break;
+        case 7:
+            userQuery = "How can i contact DigiKey?";
             break;
         default:
             Serial.println("Recognition failed.");
+            lcd.fillScreen(BG_COLOR);
+            printCenterOnLCD(lcd, "Recognition failed.");
+            delay(1000);
             return; // Exit loop if recognition failed
     }
 
     printCenterOnLCD(lcd, userQuery.c_str());
     Serial.println("Recognized: " + userQuery);
+    delay(4000);
     makeApiCall(userQuery);
     delay(1000); // Wait before recognizing again
 }
@@ -151,6 +174,9 @@ void makeApiCall(String userQuery) {
         // Wait for the response
         long _startMillis = millis();
         Serial.println("Waiting for response...");
+        lcd.fillScreen(BG_COLOR);
+        printCenterOnLCD(lcd, "Waiting for response...");
+        delay(1000);
         while (!client.available() && (millis() - _startMillis < 5000)) {
             // Wait for response
         }
@@ -161,6 +187,16 @@ void makeApiCall(String userQuery) {
             while (client.available()) {
                 String line = client.readStringUntil('\n');
                 Serial.println(line);
+                int ansIndex = line.indexOf("ANS: ");
+                Serial.println(ansIndex);
+                if (ansIndex == 1) {
+                    String result = line.substring(5);
+                    Serial.println(result);
+                    answerScreen(result);
+                    delay(5000);
+                } else {
+                    Serial.println("Response does not start with 'ANS: '");
+                }
             }
         } else {
             Serial.println("No response from server");
@@ -169,6 +205,7 @@ void makeApiCall(String userQuery) {
         client.stop(); // Close the connection
     } else {
         Serial.println("Connection failed");
+        printCenterOnLCD(lcd, "WIFI Connection failed");
     }
 }
 
